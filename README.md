@@ -12,8 +12,7 @@
 |    Visiteur connecté  |    Pouvoir consulter la Home du site weallarewinos.fr         |   acceder a la page d'acceuil du site                                     |
 |    Visiteur connecté   |    Pouvoir consulter la page nos vins                        |   Voir l'ensembles des vins disponible, ajouer au panier et voir les fiches produits     |
 |    Visiteur connecté  |    Pouvoir filtrer les vins                                   |   pour consulter en fonction Prix, Couleurs et bulles et Nos sélections   |
-|    Visiteur connecté  |    Pouvoir consulter la page nos coffrets                     |   pouvoir ajouter des coffrets au panier et consulter les fiches produits des vins             |
- 
+|    Visiteur connecté  |    Pouvoir consulter la page nos coffrets                     |   pouvoir ajouter des coffrets au panier et consulter les fiches produits des vins             | 
 |    Visiteur connecté   |    Pouvoir consulter la page nos fournisseur                  |   Voir les fournisseurs disponible                     |
 |    Visiteur connecté   |    Pouvoir consulter la page presse                           |     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                 |
 |    Visiteur connecté   |    Pouvoir consulter "Qui nous sommes"                        |   Acceder au information sur l'entreprise              |
