@@ -14,7 +14,6 @@
 |    Visiteur connecté  |    Pouvoir filtrer les vins                                   |   pour consulter en fonction Prix, Couleurs et bulles et Nos sélections   |
 |    Visiteur connecté  |    Pouvoir consulter la page nos coffrets                     |   pouvoir ajouter des coffrets au panier et consulter les fiches produits des vins             | 
 |    Visiteur connecté   |    Pouvoir consulter la page nos fournisseur                  |   Voir les fournisseurs disponible                     |
-
 |    Visiteur connecté   |    Pouvoir consulter "Qui nous sommes"                        |   Acceder au information sur l'entreprise              |
 |    Visiteur connecté   |    acceder au blog                                            |   pour consulter les articles                          |
 |   Equipe back office   |    acceder aux  fonctionnalités standards                     |   Pour créer des pages et publier des articles         |     
