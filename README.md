@@ -1,7 +1,7 @@
 |   En tant que...      | Je veux...                                                    |  Pour faire ceci...                        |
 |---                    |:-:                                                            |:-:                                         |
 |    Visiteur anonyme   |    Pouvoir consulter la Home du site weallarewinos.fr         |   acceder a la page d'acceuil du site      |
-|    Visiteur anonyme   |    Pouvoir consulter la page nos vins                         |   Voir l'ensembles des vins disponible, ajouer au panier et voir les fiches produits     |
+|    Visiteur anonyme   |    Pouvoir consulter la page nos vins                         |   Voir l'ensembles des vins disponible, ajouter au panier et voir les fiches produits     |
 |    Visiteur anonyme   |    Pouvoir filtrer les vins                                   |   pour consulter en fonction Prix, Couleurs et bulles et Nos sélections   |
 |    Visiteur anonyme   |    Pouvoir consulter la page nos coffrets                     |   pouvoir ajouter des coffrets au panier et consulter les fiches produits des vins             |
 |    Visiteur anonyme   |    Pouvoir consulter la page nos fournisseur                  |   Voir les fournisseurs disponible         |
