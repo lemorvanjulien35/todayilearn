@@ -5,7 +5,6 @@
 |    Visiteur anonyme   |    Pouvoir filtrer les vins                                   |   pour consulter en fonction Prix, Couleurs et bulles et Nos sélections   |
 |    Visiteur anonyme   |    Pouvoir consulter la page nos coffrets                     |   pouvoir ajouter des coffrets au panier et consulter les fiches produits des vins             |
 |    Visiteur anonyme   |    Pouvoir consulter la page nos fournisseur                  |   Voir les fournisseurs disponible         |
-
 |    Visiteur anonyme   |    Pouvoir consulter "Qui nous sommes"                        |   Acceder au information sur l'entreprise (mentions legales, Faq, presse, cantact)|
 |    Visiteur anonyme   |    acceder au blog                                            |   pour consulter les articles              |
 |    Visiteur anonyme   |    créer un compte cient  ou se connecter                     |  Indispensable afin de pouvoir finaliser une commande.                    | 
